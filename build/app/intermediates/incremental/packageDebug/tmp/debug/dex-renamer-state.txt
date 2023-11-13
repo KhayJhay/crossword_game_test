@@ -1,0 +1,4 @@
+#Mon Nov 13 02:47:17 PST 2023
+base.0=/Users/khay/StudioProjects/crossword_test/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
